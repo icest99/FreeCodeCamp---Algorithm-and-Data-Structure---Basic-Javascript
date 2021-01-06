@@ -35,5 +35,3 @@ function updateRecords(object, id, prop, value) {
   }
   return object;
 }
-
-console.log(updateRecords(collection, 2468, 'tracks', 'Free'));
