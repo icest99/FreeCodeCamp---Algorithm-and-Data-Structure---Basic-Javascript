@@ -7,5 +7,5 @@ Use the shorthand character class \d to count how many digits are in movie title
 
 */
 let movieName = "2001: A Space Odyssey";
-let noNumRegex = /\D/g; // Change this line
+let noNumRegex = /\d/g; // Change this line
 let result = movieName.match(noNumRegex).length;
