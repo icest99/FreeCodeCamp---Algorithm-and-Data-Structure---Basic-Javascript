@@ -14,3 +14,5 @@ We have defined a function named squareList. You need to complete the code for t
 
 Note: Your function should not use any kind of for or while loops or the forEach() function.
 */
+
+//Apparently there is a method called |Number.isInteger()| that detect wheather a given number is an integer
